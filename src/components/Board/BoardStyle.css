@@ -1,0 +1,5 @@
+.tiles{
+    max-width: 12vw;
+    display: flex;
+    flex-wrap: wrap;
+}
